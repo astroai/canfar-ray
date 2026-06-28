@@ -1,0 +1,7 @@
+# Pinned Ray stack for manager + workers (install into astroai CADC venv).
+ray[default]==2.43.0
+numpy==2.2.3
+astropy==7.0.1
+pandas==2.2.3
+pyarrow==19.0.1
+fsspec==2025.2.0
